@@ -6,8 +6,8 @@ import org.springframework.boot.autoconfigure.SpringBootApplication;
 @SpringBootApplication
 public class IdGeneratorApplication {
 
-	public static void main(String[] args) {
-		SpringApplication.run(IdGeneratorApplication.class, args);
-	}
+    public static void main(String[] args) {
+        SpringApplication.run(IdGeneratorApplication.class, args);
+    }
 
 }
